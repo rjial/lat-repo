@@ -1,3 +1,3 @@
 # Latihan
 
-latihan membuat repo
+latihan membuat repo!
